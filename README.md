@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-sobri-804a55265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-sobri-804a55265" height="30" width="40" /></a>
-<a href="https://fb.com/Rild Ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16s3aedjgm/" height="30" width="40" /></a>
-<a href="https://instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=1hngwie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=1hngwie" height="30" width="40" /></a>
+<a href="https://fb.com/@rildd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rildd" height="30" width="40" /></a>
+<a href="https://instagram.com/@rllld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rllld_" height="30" width="40" /></a>
 <a href="https://medium.com/@sobrimuhammad19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sobrimuhammad19" height="30" width="40" /></a>
 </p>
 
