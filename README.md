@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **sobrimuhammad19@gmail.com**
 
-- ⚡ Fun fact **Ingin Menjadi Programmer Handal Namun Enggan Ngoding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
