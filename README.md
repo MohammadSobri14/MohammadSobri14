@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-sobri-804a55265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-sobri-804a55265" height="30" width="40" /></a>
 <a href="https://fb.com/@rildd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rildd" height="30" width="40" /></a>
-<a href="https://instagram.com/@rllld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rllld_" height="30" width="40" /></a>
+<a href="https://instagram.com/rllld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rllld_" height="30" width="40" /></a>
 <a href="https://medium.com/@sobrimuhammad19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sobrimuhammad19" height="30" width="40" /></a>
 </p>
 
