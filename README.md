@@ -1,9 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsobri14&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsobri14" /> </p>
 <h1 align="center">Hi 👋, I'm Mohammad Sobri</h1>
 <h3 align="center">🎓 Building My Path in Tech | Information Systems Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsobri14&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsobri14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsobri14" alt="mohammadsobri14" /></a> </p>
 
 - 🔭 I’m currently working on [Tlogo Putri Project](https://github.com/MohammadSobri14/tlogo-putri-project.git)
 
@@ -30,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsobri14&show_icons=true&locale=en" alt="mohammadsobri14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsobri14&" alt="mohammadsobri14" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsobri14" alt="mohammadsobri14" /></a> </p>
