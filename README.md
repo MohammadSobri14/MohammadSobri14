@@ -88,11 +88,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsobri14&show_icons=true&locale=en&layout=compact" alt="mohammadsobri14" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohammadSobri14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MohammadSobri14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSobri14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsobri14&show_icons=true&locale=en" alt="mohammadsobri14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsobri14&" alt="mohammadsobri14" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsobri14" alt="mohammadsobri14" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohammadSobri14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
