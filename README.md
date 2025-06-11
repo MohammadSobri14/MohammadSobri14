@@ -13,14 +13,8 @@
 
 - 📫 How to reach me **sobrimuhammad19@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-sobri-804a55265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-sobri-804a55265" height="30" width="40" /></a>
-<a href="https://fb.com/@rildd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rildd" height="30" width="40" /></a>
-<a href="https://instagram.com/rllld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rllld_" height="30" width="40" /></a>
-<a href="https://medium.com/@sobrimuhammad19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sobrimuhammad19" height="30" width="40" /></a>
-</p>
+<div align="left" style="display:flex;gap:20px;align-items:center;flex-wrap:wrap"><a href="https://linkedin.com/in/mohammad-sobri-804a55265" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/></a><a href="https://www.upwork.com/freelancers/~01ef4ca7f6b610c5df" target="_blank"><img src="https://img.icons8.com/ios-filled/50/6fda44/upwork.png" alt="Upwork" height="40" width="40"/></a><a href="mailto:sobrimuhammad19@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" width="40"/></a><a href="https://wa.me/6285156181586" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="40" width="40"/></a><a href="https://instagram.com/rllld_" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" height="40" width="40"/></a><a href="https://fb.com/@rildd" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="40" width="40"/></a></div>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
@@ -88,10 +82,20 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammadSobri14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohammadSobri14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSobri14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohammadSobri14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSobri14&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MohammadSobri14&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSobri14&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadSobri14&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
