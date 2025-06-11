@@ -68,6 +68,12 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
 </p>
 
+<h3 align="center">🗂️ Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
+</p>
+
 <h3 align="center">🖥️ Servers & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Win Terminal" />
@@ -75,14 +81,7 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-<h3 align="center">🗂️ Version Control</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
-</p>
-
-
-### 📊 GitHub Stats
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadSobri14&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
