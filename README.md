@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsobri14&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsobri14" /> </p>
-<h1 align="center">Hi 👋, I'm Mohammad Sobri</h1>
+<h1 align="center">Hi 👋 I'm Mohammad Sobri</h1>
 <h3 align="center">🎓 Building My Path in Tech | Information Systems Student</h3>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+</div>
 
 - 🔭 I’m currently working on [Tlogo Putri Project](https://github.com/MohammadSobri14/tlogo-putri-project.git)
 
