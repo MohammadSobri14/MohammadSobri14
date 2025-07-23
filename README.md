@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Risk Management](https://github.com/MohammadSobri14/ews-risk-register-fe.git)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning [NextJS](https://nextjs.org/)
 
 - 📝 I regularly write articles on [https://medium.com/@sobrimuhammad19](https://medium.com/@sobrimuhammad19)
 
